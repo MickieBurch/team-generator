@@ -7,8 +7,8 @@ const generateManager = function (manager) {
                 <h4>Manager</h4><i class="material-icons">content_paste</i>
             </div>
             <div class="card-body">
-                <p class="id">ID: ${manager.id}</p>
                 <p class="email">Email: <a href="mailto:${manager.email}">${manager.email}</a></p>
+                <p class="id">ID: ${manager.id}</p>
                 <p class="office">Office Number: ${manager.office}</p>
             </div>
         </div>
@@ -25,8 +25,8 @@ const generateEngineer = function (engineer) {
                 <h4>Engineer</h4><i class="material-icons">laptop_mac</i>
             </div>
             <div class="card-body">
-                <p class="id">ID: ${engineer.id}</p>
                 <p class="email">Email: <a href="mailto:${engineer.email}">${engineer.email}</a></p>
+                <p class="id">ID: ${engineer.id}</p>
                 <p class="github">Github: <a target="blank" href="https://github.com/${engineer.github}">${engineer.github}</a></p>
             </div>
         </div>
@@ -43,8 +43,8 @@ const generateIntern = function (intern) {
                 <h4>Intern</h4><i class="material-icons">assignment_ind</i>
             </div>
             <div class="card-body">
-                <p class="id">ID: ${intern.id}</p>
                 <p class="email">Email:<a href="mailto:${intern.email}">${intern.email}</a></p>
+                <p class="id">ID: ${intern.id}</p>
                 <p class="school">School: ${intern.school}</p>
             </div>
     </div>
