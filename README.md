@@ -4,7 +4,7 @@
 This application allows you to create a team based on choosing an Engineer or an Intern. You are able to go through and enter the data for both user types. 
 After you've entered this information you are given a page that will display your team. 
 
-##Installation
+## Installation
 To install this project you will need to open your command prompt.
 Then you will inter npm i 
 From here you will then want to enter node index.js to start the generator. 
@@ -24,8 +24,4 @@ https://user-images.githubusercontent.com/93951895/156934307-444ffde3-696a-436b-
 If you would like to contribute to this project feel free to reach me at
 McKennaBurch19@gmail.com
 
-## Sources 
-WE3schools
-Help of tutor
-Youtube
 
